@@ -1,0 +1,17 @@
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\CRUDOpTableStorage.exe.config
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\CRUDOpTableStorage.exe
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\CRUDOpTableStorage.pdb
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Newtonsoft.Json.dll
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Module4 Labwork\CRUDOpTableStorage\bin\Debug\Newtonsoft.Json.xml
+C:\Module4 Labwork\CRUDOpTableStorage\obj\Debug\CRUDOpTableStorage.csprojAssemblyReference.cache
+C:\Module4 Labwork\CRUDOpTableStorage\obj\Debug\CRUDOpTableStorage.csproj.CoreCompileInputs.cache
+C:\Module4 Labwork\CRUDOpTableStorage\obj\Debug\CRUDOpTableStorage.csproj.CopyComplete
+C:\Module4 Labwork\CRUDOpTableStorage\obj\Debug\CRUDOpTableStorage.exe
+C:\Module4 Labwork\CRUDOpTableStorage\obj\Debug\CRUDOpTableStorage.pdb
